@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roakky
-- 👀 I’m interested in machine learning, data science, artificial intelligence, computer science, quantum computing, web development, and game development etc...
+- 👀 I’m interested in machine learning, data science, artificial intelligence, computer science, quantum computing, web development, and game development.
 - 🌱 I’m currently learning cryptography, data science algorithms, and web development.
-- 💞️ I’m looking to collaborate on machine learning and data science projects. 
+- 💞️ I’m looking to collaborate on data science, game development, web development projects. 
 - 📫 Reach me on github @Roakky
 
 <!---
