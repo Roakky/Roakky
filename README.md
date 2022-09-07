@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert Young.
-- 👀 I’m interested in machine learning, data science, artificial intelligence, computer science, full stack development, and game development.
+- 👀 I’m interested in machine learning, data science, artificial intelligence, computer science, full stack development, and user interface design.
 - 📫 Reach out to me on my <a href="https://www.linkedin.com/in/rnyoung2000/">LinkedIn</a>.
 
 <!---
